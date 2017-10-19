@@ -2,6 +2,6 @@
     "name": "972384600/drivertiku",
     "type": "project",
     "require": {
-        "972384600/drivertiku": "dev-master",
+        "972384600/drivertiku": "dev-master"
     }
 }
